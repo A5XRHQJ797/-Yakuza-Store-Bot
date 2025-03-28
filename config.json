@@ -1,13 +1,18 @@
 {
-  "TOKEN": "توكن_البوت",
-  "ticketCategoryID": "ايدي_الكاتاجوري",
+  "TOKEN": "MTI4MjUyODg1MDgzMTczNjg4Mg.GWEmWf.t-yE2w-HqAqNt_Dg7DLEEv6NDG7vuoCmNdMuOk",
+  "ticketCategoryID": "1353141208423338027",
   "ticketNumber": 2,
-  "BACKGROUND": "صورة_الباجراوند",
+  "BACKGROUND": "https://media.discordapp.net/attachments/1147094802224128121/1354982243776462848/eDn4Kub.png?ex=67e7450d&is=67e5f38d&hm=b2a40439ab5f6bed013d607584d2fc4e9284bdfb007124e8c49af9fa728c06dc&=",
   "SECTIONS": [
     {
-      "name": "اسم_القسم",
-      "roleID": "ايدي_الرتبة",
-      "image": "صورة_القسم"
+      "name": "شراء",
+      "roleID": "1353142699099947019",
+      "image": "https://cdn.discordapp.com/attachments/1147094802224128121/1354983155538460712/UyyCt3x.png?ex=67e745e6&is=67e5f466&hm=a8bdecd1f34c0bcbe7761e1144d8f3efa0599008694528db27609b9fce85105a&"
+    },
+    {
+      "name": "استفسارات",
+      "roleID": "1353142699099947019",
+      "image": "https://cdn.discordapp.com/attachments/1147094802224128121/1354983155538460712/UyyCt3x.png?ex=67e745e6&is=67e5f466&hm=a8bdecd1f34c0bcbe7761e1144d8f3efa0599008694528db27609b9fce85105a&"
     }
   ]
 }
